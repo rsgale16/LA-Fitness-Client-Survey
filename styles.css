@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(rgb(62, 62, 202), rgb(228, 228, 63)); 
+    font-family: 'PT sans', sans-serif;
+}
+
+.title {
+    text-align: center;
+    Color: gold;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.laFitnessLogo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.description {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: auto;
+}
+
+.question {
+    color: white;
+    font-size: 15px;
+    margin-top: auto;
+    flex: 0 1 auto;
+    align-self: auto;
+    margin-left: 40px;
+    width: 100%;
+}
+
+div {
+   margin-left: 40px;
+}
+
+
+
+.headerParagraph {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: auto;
+}
+
+textarea {
+    font-size: 14px;
+    color: rgb(0, 0 ,136);
+}
+
+.submit {
+    color:rgb(1, 1, 167);
+    margin: auto;
+    font-size: 14px;
+    padding: 6px 10px;
+    border: 2px solid blue;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
